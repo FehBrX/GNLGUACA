@@ -6,7 +6,7 @@
 /*   By: ffernand <ffernand@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/21 17:21:40 by ffernand          #+#    #+#             */
-/*   Updated: 2021/11/01 19:04:01 by ffernand         ###   ########.fr       */
+/*   Updated: 2021/11/02 11:45:59 by ffernand         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,8 +14,6 @@
 # define GET_NEXT_LINE_H
 # include <unistd.h>
 # include <stdio.h>
-# include <stdlib.h>
-# include <stddef.h>
 # include <stdlib.h>
 
 
