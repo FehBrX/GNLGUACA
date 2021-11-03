@@ -6,7 +6,7 @@
 /*   By: ffernand <ffernand@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/21 17:21:40 by ffernand          #+#    #+#             */
-/*   Updated: 2021/11/02 21:31:09 by ffernand         ###   ########.fr       */
+/*   Updated: 2021/11/02 21:43:21 by ffernand         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 # include <unistd.h>
 # include <stdio.h>
 # include <stdlib.h>
-
 
 char	*get_next_line(int fd);
 char	*ft_strchr(const char *s, int c);
